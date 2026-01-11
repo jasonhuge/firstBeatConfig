@@ -1,6 +1,6 @@
 # FirstBeat Configuration
 
-Configuration files for the FirstBeat improv app. This repository contains JSON data for improv formats, warmup exercises, and opening techniques used in improvised theater performances.
+Configuration files for the FirstBeat improv app. This repository contains JSON data for improv formats, warmup exercises, opening techniques, and scene suggestions used in improvised theater performances.
 
 ## Overview
 
@@ -9,14 +9,16 @@ FirstBeat is an improvisation app that helps performers structure and manage imp
 - Long-form improv formats and their structures
 - Warmup exercises organized by category
 - Opening techniques with player counts and timing
+- Scene suggestions for inspiration during performances
 
 ## Repository Structure
 
 ```
 json/
-├── formats.json    # Long-form improv format definitions
-├── warmups.json    # Warmup exercises and games
-└── openings.json   # Show opening techniques
+├── formats.json      # Long-form improv format definitions
+├── warmups.json      # Warmup exercises and games
+├── openings.json     # Show opening techniques
+└── suggestions.json  # Scene suggestions by category
 ```
 
 ## Configuration Files
@@ -69,6 +71,24 @@ Each opening includes:
 - Expected setup time
 - Unique identifier for linking with formats
 
+### suggestions.json
+
+Contains scene suggestions organized into seven categories:
+
+- **Locations** - Places and settings (Hospital, Beach, Airport, Castle, Spaceship, etc.)
+- **Occupations** - Jobs and professions (Doctor, Pilot, Chef, Detective, Astronaut, etc.)
+- **Relationships** - Character dynamics (Siblings, Rivals, Roommates, Frenemies, Soulmates, etc.)
+- **Emotions** - Emotional states and feelings (Jealousy, Guilt, Joy, Grief, Pride, etc.)
+- **Objects** - Physical items (Ladder, Umbrella, Mirror, Key, Diary, etc.)
+- **Activities** - Events and actions (Wedding, Funeral, Audition, Interview, Breakup, etc.)
+- **Styles** - Performance genres (Noir, Western, Horror, Musical, Sitcom, etc.)
+
+Each category includes:
+- Unique identifier
+- Display name
+- SF Symbol icon name
+- Array of suggestion strings
+
 ## Data Structure
 
 All files use standard JSON format with consistent schemas:
@@ -114,6 +134,16 @@ All files use standard JSON format with consistent schemas:
 }
 ```
 
+**Suggestion Category Schema:**
+```json
+{
+  "id": "string",
+  "name": "string",
+  "icon": "string",
+  "suggestions": ["string"]
+}
+```
+
 ## Usage
 
 These configuration files are designed to be consumed by the FirstBeat improv app. The JSON data provides:
@@ -121,6 +151,7 @@ These configuration files are designed to be consumed by the FirstBeat improv ap
 - Structured show formats for performers to follow
 - Searchable warmup library for instructors and coaches
 - Opening techniques matched to appropriate formats via ID references
+- Categorized scene suggestions for random inspiration during shows
 
 ## Contributing
 
