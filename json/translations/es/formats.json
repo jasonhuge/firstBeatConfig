@@ -1,0 +1,27 @@
+{
+    "harold": {
+        "title": "Harold",
+        "description": "Una estructura fundamental de formato largo construida alrededor de escenas repetidas, exploración temática y juegos grupales del ensamble. Las escenas evolucionan a través de intensificación y callbacks, a menudo entrelazándose hacia el final.",
+        "segment_titles": ["Apertura", "Beat 1", "Juego Grupal 1", "Beat 2", "Juego Grupal 2", "Beat 3 / Cierre"]
+    },
+    "montage": {
+        "title": "Montaje",
+        "description": "Un formato largo flexible compuesto por múltiples escenas independientes conectadas por un tema, tono o idea general. Enfatiza la variedad, el descubrimiento y las transiciones rápidas.",
+        "segment_titles": ["Apertura", "Intensificación", "Ronda de Tags", "Cierre"]
+    },
+    "pretty_flower": {
+        "title": "Flor Bonita",
+        "description": "Un formato largo basado en patrones que alterna entre escenas de dos personas fundamentadas y juegos grupales recurrentes. La repetición de la estructura permite una clara intensificación y experimentación lúdica.",
+        "segment_titles": ["Juego Grupal Inicial", "Par de Escenas 1", "Repetición del Juego", "Par de Escenas 2", "Intensificación del Juego", "Escenas Finales / Botón"]
+    },
+    "the_hulk": {
+        "title": "El Hulk",
+        "description": "Un formato largo centrado en el personaje que comienza con una escena realista y fundamentada, y regresa repetidamente a ella mientras la intensidad emocional y el absurdo escalan. Cada regreso amplifica lo que antes estaba contenido.",
+        "segment_titles": ["Escena Base", "Primera Intensificación", "Segunda Intensificación", "Escalada Extrema", "Explosión / Resolución"]
+    },
+    "armando": {
+        "title": "Armando",
+        "description": "Un formato largo narrativo inspirado en un monólogo. Las escenas se basan en historias personales o reflexiones y exploran diferentes perspectivas, emociones o interpretaciones de la misma idea.",
+        "segment_titles": ["Monólogo", "Serie de Escenas 1", "Segundo Monólogo o Comentario", "Serie de Escenas 2", "Escenas Finales / Botón"]
+    }
+}

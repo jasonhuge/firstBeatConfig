@@ -1,0 +1,11 @@
+{
+    "categories": [
+        {"id": "locations", "icon": "mappin.and.ellipse"},
+        {"id": "occupations", "icon": "briefcase"},
+        {"id": "relationships", "icon": "person.2"},
+        {"id": "emotions", "icon": "heart"},
+        {"id": "objects", "icon": "cube"},
+        {"id": "activities", "icon": "figure.run"},
+        {"id": "styles", "icon": "theatermasks"}
+    ]
+}

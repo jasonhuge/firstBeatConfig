@@ -1,0 +1,32 @@
+[
+    {
+        "id": "harold",
+        "preferred_opening_id": "living_room",
+        "allowed_opening_ids": ["invocation", "organic_opening", "living_room", "deconstruction", "pattern_game", "slideshow"],
+        "segment_portions": [0.08, 0.24, 0.08, 0.24, 0.08, 0.28]
+    },
+    {
+        "id": "montage",
+        "preferred_opening_id": "organic_opening",
+        "allowed_opening_ids": ["invocation", "organic_opening", "living_room", "deconstruction", "rant", "conducted_story", "pattern_game", "slideshow", "interview", "news_report", "documentary"],
+        "segment_portions": [0.30, 0.40, 0.20, 0.10]
+    },
+    {
+        "id": "pretty_flower",
+        "preferred_opening_id": "pattern_game",
+        "allowed_opening_ids": ["pattern_game", "organic_opening", "invocation", "slideshow", "conducted_story"],
+        "segment_portions": [0.15, 0.20, 0.15, 0.20, 0.15, 0.15]
+    },
+    {
+        "id": "the_hulk",
+        "preferred_opening_id": "living_room",
+        "allowed_opening_ids": ["living_room", "rant", "interview", "monologue", "deconstruction"],
+        "segment_portions": [0.25, 0.20, 0.20, 0.20, 0.15]
+    },
+    {
+        "id": "armando",
+        "required_opening_id": "monologue",
+        "allowed_opening_ids": ["monologue"],
+        "segment_portions": [0.20, 0.25, 0.15, 0.25, 0.15]
+    }
+]

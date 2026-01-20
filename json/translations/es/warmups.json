@@ -1,0 +1,191 @@
+{
+    "zip_zap_zop": {
+        "name": "Zip Zap Zop",
+        "description": "Un juego de alta energía y enfoque que construye conexión grupal, contacto visual y conciencia del momento presente. Excelente para sincronizar al grupo y sacudir el desorden mental.",
+        "howToPlay": "De pie en círculo. Una persona señala a otra y dice 'Zip'. Esa persona inmediatamente señala a alguien más y dice 'Zap'. Luego señalan a otro y dicen 'Zop'. El patrón se repite en orden: Zip \u2192 Zap \u2192 Zop.",
+        "variations": ["Añadir gestos de cuerpo completo para cada palabra", "Aumentar gradualmente la velocidad", "Añadir una cuarta palabra para interrumpir el patrón", "Invertir la dirección inesperadamente"],
+        "tips": ["Hacer contacto visual fuerte antes de pasar", "Comprometerse físicamente, no solo verbalmente", "Mantente presente\u2014no planees con anticipación", "Los errores son parte de la diversión"]
+    },
+    "bunny_bunny": {
+        "name": "Bunny Bunny",
+        "description": "Un juego de alta energía y multitarea con tres actividades simultáneas que construye enfoque, coordinación y conciencia grupal.",
+        "howToPlay": "De pie en círculo. Un estudiante pasa 'Bunny Bunny' a otro mientras los estudiantes adyacentes responden con 'Tookie Tookie'. El resto del grupo canta 'Ooh-Ah' mientras hace movimientos de correr. La velocidad aumenta progresivamente.",
+        "variations": ["Añadir más actividades simultáneas", "Cambiar las palabras y gestos", "Jugar estilo eliminación", "Aumentar la velocidad dramáticamente"],
+        "tips": ["Mantente comprometido con tu rol", "No dejes que los errores rompan tu enfoque", "La energía se construye con la velocidad", "Apoya a todo el grupo, no solo a ti mismo"]
+    },
+    "bippity_bippity_bop": {
+        "name": "Bippity Bippity Bop",
+        "description": "Un juego de enfoque y reacción donde un jugador en el centro llama comandos que requieren respuestas específicas de los jugadores del círculo.",
+        "howToPlay": "Un estudiante en el centro señala a los jugadores del círculo y llama comandos como 'Bop', 'Biddie Biddie Bop', 'Elefante', etc. Los jugadores deben responder con el gesto o movimiento correcto. Los errores te envían al centro.",
+        "variations": ["Añadir nuevos comandos y gestos", "Aumentar la velocidad de los comandos", "Jugar con temas (animales, objetos)", "Añadir efectos de sonido a los gestos"],
+        "tips": ["Reacciona rápido sin pensar demasiado", "Mantente presente y enfocado", "Los errores son momentos de aprendizaje", "Mantén la energía alta y juguetona"]
+    },
+    "what_are_you_doing": {
+        "name": "¿Qué Estás Haciendo?",
+        "description": "Un juego de justificación donde los jugadores miman una acción mientras describen verbalmente una actividad completamente diferente.",
+        "howToPlay": "Dos estudiantes alternan. Uno mima una actividad mientras el otro pregunta '¿Qué estás haciendo?' El primero responde con una actividad diferente, que el segundo debe entonces mimar mientras le hacen la misma pregunta. Continúa alternando.",
+        "variations": ["Añadir stakes emocionales", "Usar categorías específicas (deportes, tareas)", "Versión de ronda rápida", "Versión de círculo grupal"],
+        "tips": ["Comprométete completamente con el mimo", "No hagas que tus palabras coincidan con tus acciones", "El primer pensamiento es el mejor pensamiento", "Deja que suceda lo absurdo"]
+    },
+    "mirror_exercise": {
+        "name": "Ejercicio del Espejo",
+        "description": "Un ejercicio en parejas que construye escucha no verbal, empatía y conexión física a través del movimiento compartido.",
+        "howToPlay": "Emparéjense y mírense de frente. Una persona lidera movimientos lentos y continuos mientras la otra refleja exactamente. Cambien roles, luego intenten moverse juntos sin asignar un líder.",
+        "variations": ["Añadir sonido o respiración", "Viajar por el espacio", "Reflejar expresiones faciales", "Explorar movimiento emocional"],
+        "tips": ["Muévete lo suficientemente lento para ser reflejado", "Mantén contacto visual", "Comprométete completamente como seguidor", "Deja que el liderazgo cambie naturalmente"]
+    },
+    "pass_the_character": {
+        "name": "Pasa el Personaje",
+        "description": "Un juego de transformación que practica observación de personajes, replicación y compromiso físico.",
+        "howToPlay": "Un estudiante hace contacto visual a través del círculo y camina hacia otro mientras encarna un personaje. El segundo estudiante replica todo lo observado antes de acercarse a un participante diferente con el mismo personaje o uno evolucionado.",
+        "variations": ["Añadir voces de personaje", "Intensificar el personaje en cada pase", "Transformar el personaje gradualmente", "Añadir stakes emocionales"],
+        "tips": ["Observa cada detalle", "Comprométete con la fisicalidad completa", "Deja que los personajes evolucionen orgánicamente", "Sé generoso con tus ofertas"]
+    },
+    "zombie": {
+        "name": "Zombie",
+        "description": "Un juego físico de alta energía donde los jugadores se transforman de humanos a zombies a través del toque.",
+        "howToPlay": "Un zombie designado se mueve lentamente para tocar humanos, convirtiéndolos. Los estudiantes tocados se transforman antes de perseguir a otros. El juego concluye cuando todos se convierten en zombies.",
+        "variations": ["Añadir zonas seguras", "Múltiples zombies iniciales", "Diferentes transformaciones de criaturas", "Invertir la infección a mitad del juego"],
+        "tips": ["Comprométete con la fisicalidad zombie", "Muévete de forma segura en el espacio", "Apoya los momentos de transformación", "Deja que el caos sea divertido"]
+    },
+    "crazy_eights": {
+        "name": "Ochos Locos",
+        "description": "Un ejercicio de conteo de cuerpo completo que libera tensión y construye energía grupal a través del movimiento rítmico.",
+        "howToPlay": "De pie en círculo, sacude cada extremidad mientras cuentas hasta ocho, manteniendo contacto visual. Repite el patrón con números descendentes (7, 6, 5...) hasta llegar a uno.",
+        "variations": ["Añadir sonido o voz", "Cambiar el orden del conteo", "Añadir cualidades emocionales", "Acelerar o desacelerar"],
+        "tips": ["Sacude la tensión completamente", "Mantén contacto visual con otros", "Suelta la autoconciencia", "Abraza lo tonto"]
+    },
+    "emotional_zip_zap_zop": {
+        "name": "Zip Zap Zop Emocional",
+        "description": "Una variación vocal de Zip Zap Zop que añade compromiso emocional y variedad vocal al juego clásico.",
+        "howToPlay": "Pasa 'Zip', 'Zap' y 'Zop' alrededor del círculo usando una emoción elegida. La energía escala con cada ronda, intensificando las expresiones vocales y físicas.",
+        "variations": ["Cambiar emociones cada ronda", "Dejar que las emociones se mezclen", "Añadir emociones contrastantes", "Intensificación extrema"],
+        "tips": ["Comprométete vocal y físicamente", "Deja que la emoción afecte todo tu cuerpo", "No indiques\u2014encarna", "Apoya las elecciones de los demás"]
+    },
+    "sound_ball": {
+        "name": "Pelota de Sonido",
+        "description": "Un calentamiento vocal y físico que fomenta el juego, el compromiso y la variedad vocal sin depender del lenguaje.",
+        "howToPlay": "De pie en círculo. Haz un sonido y 'lánzalo' físicamente a alguien. Ellos lo atrapan, transforman el sonido y lanzan un nuevo sonido a alguien más.",
+        "variations": ["Sonidos basados en emociones", "Sonidos de animales o criaturas", "Idiomas de robots o alienígenas", "Hacer coincidir el tamaño del sonido con el gesto"],
+        "tips": ["Comprométete completamente con cada sonido", "Evita palabras o lenguaje", "Usa todo tu cuerpo", "Confía en tu primer instinto"]
+    },
+    "gibberish": {
+        "name": "Galimatías",
+        "description": "Un ejercicio que elimina la presión de las palabras, fomentando claridad emocional, fisicalidad y reacciones verdaderas.",
+        "howToPlay": "Ten una escena o conversación usando solo sonidos inventados. Comunícate a través del tono, ritmo y comportamiento físico.",
+        "variations": ["Galimatías con traductor", "Entrevistas de trabajo o discusiones", "Diferentes idiomas falsos", "Stakes emocionales intensificados"],
+        "tips": ["Comprométete completamente con las tonterías", "Reacciona como si entendieras", "Deja que la emoción lidere", "Usa tu cara y cuerpo"]
+    },
+    "tongue_twisters": {
+        "name": "Trabalenguas",
+        "description": "Un calentamiento clásico de articulación que prepara la voz para claridad, precisión y velocidad.",
+        "howToPlay": "Repite trabalenguas lenta y claramente, luego aumenta gradualmente la velocidad mientras mantienes la articulación.",
+        "variations": ["Cambiar el tono emocional", "Usar voces de personaje", "Caminar o moverte mientras hablas", "Inventar nuevos trabalenguas"],
+        "tips": ["Sobre-articula al principio", "Relaja la mandíbula y la lengua", "Respira entre frases", "Claridad antes que velocidad"]
+    },
+    "energy_circle": {
+        "name": "Círculo de Energía",
+        "description": "Un ejercicio de sonido y movimiento donde la energía se construye e intensifica mientras pasa alrededor del grupo.",
+        "howToPlay": "Un estudiante inicia una acción y sonido simple. El círculo lo imita, con la energía intensificándose notablemente mientras pasa. El volumen solo no constituye intensificación adecuada.",
+        "variations": ["Cambiar la energía inicial", "Añadir movimiento físico", "Transformar el sonido gradualmente", "Invertir la dirección del círculo"],
+        "tips": ["Intensifica genuinamente, no solo más fuerte", "Deja que otros te inspiren", "Comprométete con la transformación", "Apoya la energía grupal"]
+    },
+    "mind_meld": {
+        "name": "Fusión Mental",
+        "description": "Un juego de asociación grupal que construye pensamiento colectivo y conexión del ensamble encontrando ideas compartidas.",
+        "howToPlay": "Dos personas dicen una palabra al mismo tiempo. Si coinciden, celebran. Si no, cada persona dice una nueva palabra inspirada por ambas palabras anteriores. Repite hasta que las palabras coincidan.",
+        "variations": ["Todo el grupo juega a la vez", "Restricciones de tema de una palabra", "Añadir gestos físicos", "Rondas rápidas"],
+        "tips": ["Suelta el control", "Escucha más de lo que piensas", "Celebra los desaciertos", "Confía en la mente grupal"]
+    },
+    "word_association": {
+        "name": "Asociación de Palabras",
+        "description": "Un juego de asociación rápido que entrena respuestas instintivas y callar al editor interno.",
+        "howToPlay": "De pie en círculo. Una persona dice una palabra. La siguiente responde inmediatamente con la primera palabra que le viene a la mente.",
+        "variations": ["Basado en categorías", "Opuestos", "Alfabético", "Frases de dos palabras"],
+        "tips": ["Velocidad sobre ingenio", "Tu primer pensamiento es suficiente", "No hay respuestas incorrectas", "Sigue avanzando"]
+    },
+    "category_mix": {
+        "name": "Mezcla de Categorías",
+        "description": "Un juego de pensamiento rápido donde los jugadores listan rápidamente elementos de una categoría mientras mantienen el enfoque y el impulso.",
+        "howToPlay": "Los estudiantes levantan la mano y listan elementos de una categoría elegida mientras señalan al siguiente participante. Los jugadores continúan el patrón, haciendo contacto visual y evitando la anticipación.",
+        "variations": ["Rondas rápidas", "Categorías oscuras", "Combinar múltiples categorías", "Estilo eliminación"],
+        "tips": ["No planees tu respuesta con anticipación", "Confía en tu primer pensamiento", "Haz contacto visual fuerte", "Mantén la energía en movimiento"]
+    },
+    "five_things": {
+        "name": "Cinco Cosas",
+        "description": "Un juego de listado rápido que entrena el pensamiento veloz y superar bloqueos mentales.",
+        "howToPlay": "Por turnos, los estudiantes listan cinco elementos encontrados en lugares sugeridos. La clase cuenta en voz alta después de cada elemento. No se permite pausar, y 'personas' no califica como respuesta específica.",
+        "variations": ["Categorías específicas", "Estados emocionales", "Voces de personaje", "Acciones físicas mientras listas"],
+        "tips": ["No te detengas a pensar", "Cantidad sobre calidad", "Deja salir las malas ideas", "Apoya las dificultades de los demás"]
+    },
+    "object_work": {
+        "name": "Trabajo con Objetos",
+        "description": "Un ejercicio de realismo que fortalece la especificidad física y la credibilidad en las escenas.",
+        "howToPlay": "Mima tareas cotidianas usando objetos invisibles, enfocándote en peso, resistencia, tamaño y textura.",
+        "variations": ["Adivina el objeto", "Pasa objetos alrededor del grupo", "Construye ambientes completos", "Cambios extremos de peso o tamaño"],
+        "tips": ["Sé específico y consistente", "Deja que el objeto afecte tu cuerpo", "Ve más lento para mayor claridad", "Comprométete con la realidad física"]
+    },
+    "status_exercise": {
+        "name": "Ejercicio de Estatus",
+        "description": "Una exploración de cómo el estatus afecta el comportamiento, las relaciones y la narrativa en el escenario.",
+        "howToPlay": "Asigna a cada persona un número de estatus del 1 (bajo) al 10 (alto). Interactúa basándote en ese estatus usando postura, contacto visual y espacio.",
+        "variations": ["Cambios de estatus a mitad de escena", "Adivina el estatus de otros", "Interacciones basadas en escenas", "Cambios de estatus ambientales"],
+        "tips": ["El estatus es conductual, no personal", "El estatus alto está relajado", "El estatus bajo busca aprobación", "El estatus puede cambiar momento a momento"]
+    },
+    "i_am_a_tree": {
+        "name": "Soy un Árbol",
+        "description": "Un ejercicio clásico de construcción de ambiente que practica trabajo con objetos, justificación y conciencia grupal.",
+        "howToPlay": "Los estudiantes entran al centro secuencialmente, cada uno declarando un rol que apoya los roles anteriores. Después de tres participantes, el primero elimina a una persona, reiniciando el patrón con los que quedan.",
+        "variations": ["Ambientes basados en temas", "Ambientes emocionales", "Ubicaciones específicas", "Adiciones basadas en personajes"],
+        "tips": ["Apoya lo que ya se ha establecido", "Sé específico en tus elecciones", "Escucha la imagen completa", "Haz ofertas audaces y claras"]
+    },
+    "hot_spot": {
+        "name": "Hot Spot",
+        "description": "Un calentamiento basado en canciones donde los jugadores entran y salen, cantando canciones establecidas inspiradas por letras anteriores.",
+        "howToPlay": "Una palabra de inspiración impulsa a los estudiantes a correr al centro del escenario y cantar canciones establecidas. Los performers se relevan sucesivamente, con cada nueva canción inspirada por la anterior.",
+        "variations": ["Solo títulos de una palabra", "Géneros específicos", "Dúos permitidos", "Adiciones de baile"],
+        "tips": ["Salta rápido", "No pienses demasiado la conexión", "Apoya al cantante actual", "Mantén la energía alta"]
+    },
+    "splat": {
+        "name": "Splat",
+        "description": "Un juego de eliminación de alta energía que construye reacciones rápidas y competitividad juguetona.",
+        "howToPlay": "El instructor señala a los participantes del círculo, indicándoles que se agachen mientras los estudiantes adyacentes se disparan con pistolas de dedos. El tirador más rápido gana; los estudiantes eliminados se sientan hasta que quedan dos para el final.",
+        "variations": ["Diferentes armas o acciones", "Versión por equipos", "Poderes especiales", "Eliminación inversa"],
+        "tips": ["Reacciona instintivamente", "Comprométete con muertes dramáticas", "Apoya la competencia", "Diviértete con lo absurdo"]
+    },
+    "look_and_scream": {
+        "name": "Mira y Grita",
+        "description": "Un juego de eliminación rápido que construye conciencia, contacto visual y liberación juguetona de tensión.",
+        "howToPlay": "Inicialmente con las cabezas abajo, los estudiantes levantan la cabeza al comando. Los que hacen contacto visual gritan y salen. El círculo se contrae después de cada eliminación hasta que quedan dos para la ronda final.",
+        "variations": ["Diferentes reacciones además de gritar", "Versión en cámara lenta", "Múltiples rondas de juego", "Añadir movimientos físicos"],
+        "tips": ["Comprométete con el contacto visual", "Deja que el grito sea genuino", "Abraza el susto", "Mantenlo juguetón"]
+    },
+    "yes_and_circle": {
+        "name": "Círculo de Sí Y",
+        "description": "Un ejercicio fundamental de aceptación que refuerza el principio central de la improvisación de decir sí y construir sobre las ideas sin juzgar.",
+        "howToPlay": "De pie en círculo. Una persona hace una declaración. La siguiente responde con 'Sí, y...' y añade nueva información. Continúa alrededor del círculo, siempre aceptando y expandiendo.",
+        "variations": ["Añadir una acción física con cada línea", "Construir una historia compartida", "Planear un evento imaginario", "Escalar lo absurdo cada ronda"],
+        "tips": ["Escucha completamente antes de responder", "Apoya la idea de tu compañero", "Evita negar o corregir", "Suelta el intento de ser ingenioso"]
+    },
+    "zoom_schwartz_profigliano": {
+        "name": "Zoom Schwartz Profigliano",
+        "description": "Un juego de enfoque y patrones con tres movimientos que construye concentración y conciencia grupal.",
+        "howToPlay": "Los estudiantes pasan una 'pelota' imaginaria usando tres movimientos: Zoom (cualquier dirección), Schwartz (hacia atrás) y Profigliano (izquierda/derecha). Movimientos idénticos consecutivos rompen la secuencia.",
+        "variations": ["Añadir más movimientos", "Aumentar la velocidad", "Rondas de eliminación", "Añadir efectos de sonido"],
+        "tips": ["Haz contacto visual", "Mantente enfocado en la pelota", "Comprométete físicamente con cada movimiento", "No te apures\u2014sé deliberado"]
+    },
+    "electric_company": {
+        "name": "Compañía Eléctrica",
+        "description": "Un juego de construcción de palabras que crea palabras compuestas mientras mantiene el ritmo grupal y la celebración.",
+        "howToPlay": "El grupo crea palabras compuestas en secuencia. Después de completar un par de palabras, todos cantan 'Mah Na Mah Na' antes de pasar a la siguiente combinación.",
+        "variations": ["Compuestos basados en temas", "Combinaciones de tres palabras", "Diferentes cantos de celebración", "Rondas rápidas"],
+        "tips": ["Piensa en palabras compuestas reales", "Comprométete con el ritmo", "Celebra cada éxito", "Mantén el impulso"]
+    },
+    "big_booty": {
+        "name": "Big Booty",
+        "description": "Un juego de ritmo y llamada-respuesta que construye enfoque, escucha y energía grupal a través de presión juguetona.",
+        "howToPlay": "De pie en círculo y asigna a cada persona un número. Establece un ritmo (golpea los muslos dos veces, aplaude dos veces). El líder dice 'Big Booty' tres veces, luego llama un número. Ese número responde con su número dos veces y llama un nuevo número, manteniéndose en el ritmo.",
+        "variations": ["Aumentar el tempo", "Añadir baile o personaje", "Usar nombres en lugar de números", "Jugar estilo eliminación"],
+        "tips": ["Protege el ritmo a toda costa", "Mantente relajado cuando ocurran errores", "La energía importa más que la precisión", "Ríe y sigue adelante"]
+    }
+}

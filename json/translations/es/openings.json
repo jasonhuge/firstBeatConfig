@@ -1,0 +1,74 @@
+{
+    "organic_opening": {
+        "name": "Apertura Orgánica",
+        "description": "Una apertura impulsada por el ensamble donde los performers se mueven, hablan y reaccionan libremente a una sugerencia. Patrones, imágenes, emociones y relaciones emergen orgánicamente, proporcionando rico combustible temático para las escenas.",
+        "player_count": "Ensamble",
+        "setup_time": "3-5 minutos"
+    },
+    "monologue": {
+        "name": "Monólogo",
+        "description": "Un solo performer comparte una historia verdadera y personal inspirada en la sugerencia. La especificidad, emoción y punto de vista proporcionan material fundamentado para escenas que exploran temas o perspectivas similares.",
+        "player_count": "Solo",
+        "setup_time": "3-5 minutos"
+    },
+    "invocation": {
+        "name": "Invocación",
+        "description": "Los performers dicen palabras, frases o ideas cortas inspiradas en la sugerencia. El ensamble construye energía compartida y una red de asociaciones que pueden ser usadas para las escenas.",
+        "player_count": "Ensamble",
+        "setup_time": "2-3 minutos"
+    },
+    "living_room": {
+        "name": "Sala de Estar",
+        "description": "Los performers se sientan casualmente y tienen una discusión conversacional y fundamentada sobre la sugerencia. Anécdotas personales, opiniones y tangentes generan naturalmente ideas para escenas.",
+        "player_count": "3-6 jugadores",
+        "setup_time": "2-4 minutos"
+    },
+    "pattern_game": {
+        "name": "Juego de Patrones",
+        "description": "El ensamble descubre un patrón verbal o físico repetitivo inspirado en la sugerencia. El juego establece el tono y la estructura que pueden ser revisitados e intensificados más adelante en el show.",
+        "player_count": "Ensamble",
+        "setup_time": "3-5 minutos"
+    },
+    "deconstruction": {
+        "name": "Deconstrucción",
+        "description": "El grupo explora la sugerencia desglosándola palabra por palabra, examinando significados, asociaciones e interpretaciones. Esto crea una amplia paleta temática para las escenas.",
+        "player_count": "Ensamble",
+        "setup_time": "2-3 minutos"
+    },
+    "rant": {
+        "name": "Perorata",
+        "description": "Un performer entrega una perorata apasionada y opinada inspirada en la sugerencia. La emoción fuerte y el punto de vista claro ayudan a lanzar escenas audaces y centradas en el personaje.",
+        "player_count": "Solo",
+        "setup_time": "2-3 minutos"
+    },
+    "interview": {
+        "name": "Entrevista",
+        "description": "Un performer entrevista a otro que interpreta un personaje, experto o persona conectada con la sugerencia. La entrevista revela detalles, stakes y relaciones que inspiran escenas.",
+        "player_count": "2 jugadores",
+        "setup_time": "3-4 minutos"
+    },
+    "slideshow": {
+        "name": "Presentación de Diapositivas",
+        "description": "El ensamble crea una serie de imágenes congeladas inspiradas en la sugerencia mientras un narrador describe cada 'diapositiva'. Los visuales y la narración establecen personajes, ubicaciones e ideas para historias.",
+        "player_count": "4-8 jugadores",
+        "setup_time": "3-5 minutos"
+    },
+    "documentary": {
+        "name": "Documental",
+        "description": "Realizada al estilo de un documental, esta apertura usa cabezas parlantes, narración y recreaciones para construir un mundo ficticio alrededor de la sugerencia.",
+        "player_count": "Ensamble",
+        "setup_time": "4-6 minutos"
+    },
+    "conducted_story": {
+        "name": "Historia Dirigida",
+        "description": "Un director guía a múltiples performers mientras cuentan colaborativamente una historia inspirada en la sugerencia. El enfoque está en la narrativa compartida, el ritmo y la escucha grupal.",
+        "player_count": "4+ jugadores",
+        "setup_time": "3-4 minutos"
+    },
+    "news_report": {
+        "name": "Noticiario",
+        "description": "Los performers presentan un noticiero satírico inspirado en la sugerencia, con presentadores, reporteros y expertos. El formato establece rápidamente un mundo lleno de potencial para escenas.",
+        "player_count": "3-6 jugadores",
+        "setup_time": "3-5 minutos"
+    }
+}
